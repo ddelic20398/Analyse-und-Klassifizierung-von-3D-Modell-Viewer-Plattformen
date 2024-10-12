@@ -25,4 +25,4 @@ Weitere Informationen finden sich hier: **UNIKAT-LINK**
 
 ## Kontakt
 
-Für weiterführende Fragen oder Kooperationen kontaktieren Sie mich bitte .
+Für weiterführende Fragen oder Kooperationen kontaktieren Sie mich bitte.
