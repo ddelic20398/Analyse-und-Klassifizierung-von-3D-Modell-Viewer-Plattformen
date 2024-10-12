@@ -19,7 +19,7 @@ Das Ziel dieser Analyse ist es, eine umfassende Übersicht über die Fähigkeite
 
 Im Rahmen der Untersuchung der verschiedenen 3D-Modell-Viewer-Plattformen ließ sich jedoch feststellen, dass nicht alle  angegebenen „Viewer“ als „Viewer“ per se betrachtet werden können. 
 Aus diesem Grund wurden die untersuchten Plattformen, welche zwar 3D-Viewer Basisfunktionen beinhalten, sich aber primär als Marktplätze für den Verkauf oder Austausch von 3D-Modellen positionier(t)en, separat im Excel "3D-Marktplaetze.xlsx" präsentiert und die eigentlichen, „echten“ 3D-Viewer, wurden separat im Excel "3D-Viewer.xlsx" dargestellt.
-Zudem gibt in Bezug auf das analysierte Material einige Ausnahmen, welche weder ein 3D-Markplatz noch ein 3D-Viewer sind (siehe "AUSNAHMEN.txt").
+Zudem gibt in Bezug auf das analysierte Material einige Ausnahmen, welche weder ein 3D-Markplatz noch ein 3D-Viewer sind (siehe " DIE AUSNAHMEN.txt").
 
 Weitere Informationen finden sich hier: **UNIKAT-LINK**
 
