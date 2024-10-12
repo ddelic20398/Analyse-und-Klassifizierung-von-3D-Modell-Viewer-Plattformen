@@ -1,6 +1,6 @@
 # Analyse und Klassifizierung von 3D-Modell-Viewer Plattformen
 
-Dieses Repository enthält eine detaillierte Vergleichsanalyse verschiedener Plattformen zur Anzeige von 3D-Modellen. Es wurden diverse Plattformen wie Sketchfab, MyMiniFactory, BlendSwap und viele andere hinsichtlich ihrer Funktionalitäten und unterstützten Dateiformate analysiert.
+Dieses Repository enthält eine detaillierte Vergleichsanalyse verschiedener Plattformen zur Anzeige von 3D-Modellen. Es wurden diverse Plattformen wie SKETCHFAB, MYMINIFACTORY, BLENDSWAP und viele andere hinsichtlich ihrer Funktionalitäten und unterstützten Dateiformate analysiert.
 
 ## Inhalt der Daten
 
