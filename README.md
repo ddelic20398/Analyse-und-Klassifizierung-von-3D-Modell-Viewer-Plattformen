@@ -21,7 +21,7 @@ Im Rahmen der Untersuchung der verschiedenen 3D-Modell-Viewer-Plattformen ließ 
 Aus diesem Grund wurden die untersuchten Plattformen, welche zwar 3D-Viewer Basisfunktionen beinhalten, sich aber primär als Marktplätze für den Verkauf oder Austausch von 3D-Modellen positionier(t)en, separat im Excel "3D-Marktplaetze.xlsx" präsentiert und die eigentlichen, „echten“ 3D-Viewer, wurden separat im Excel "3D-Viewer.xlsx" dargestellt.
 Zudem gibt in Bezug auf das analysierte Material einige Ausnahmen, welche weder ein 3D-Markplatz noch ein 3D-Viewer sind (siehe "DIE AUSNAHMEN.txt").
 
-Weitere Informationen finden sich hier: **UNIKAT-LINK**
+Weitere Informationen finden sich hier: https://unipub.uni-graz.at/urn/urn:nbn:at:at-ubg:1-216068
 
 ## Kontakt
 
